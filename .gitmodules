@@ -1,0 +1,6 @@
+[submodule "absensi-frontend"]
+	path = absensi-frontend
+	url = git@github.com:MohammadAfandy/absensi-frontend.git
+[submodule "absensi-backend"]
+	path = absensi-backend
+	url = git@github.com:MohammadAfandy/absensi-backend.git
